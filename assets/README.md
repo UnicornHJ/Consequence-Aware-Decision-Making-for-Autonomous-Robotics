@@ -1,0 +1,15 @@
+# Figure credits
+
+Each preview is a crop of one figure from the corresponding publication. No full article, full page, PDF, or abstract is redistributed here. Crops remove surrounding page text and whitespace; the figure content is not redrawn or altered. This repository does not grant a new license over third-party figures.
+
+| Preview | Source figure | Original article | DOI |
+| :--- | :--- | :--- | :--- |
+| [embodied-cognition](embodied-cognition.png) | Figure 2 | [Embodied cognition-driven interpretable trajectory prediction of autonomous systems](https://www.nature.com/articles/s41467-026-75091-9) | [10.1038/s41467-026-75091-9](https://doi.org/10.1038/s41467-026-75091-9) |
+| [safety-first-human-like](safety-first-human-like.png) | Figure 1 | [Toward Safety-First Human-Like Decision Making for Autonomous Vehicles in Time-Varying Traffic Flow](https://ieeexplore.ieee.org/abstract/document/11520174) | [10.1109/JPROC.2026.3679470](https://doi.org/10.1109/JPROC.2026.3679470) |
+| [parallel-driving](parallel-driving.png) | Figure 1 | [Parallel Driving with Big Models and Foundation Intelligence in Cyber–Physical–Social Spaces](https://spj.science.org/doi/full/10.34133/research.0349) | [10.34133/research.0349](https://doi.org/10.34133/research.0349) |
+| [safety-balanced-planning](safety-balanced-planning.png) | Figure 1 | [Safety-Balanced Driving-Style Aware Trajectory Planning in Intersection Scenarios With Uncertain Environment](https://ieeexplore.ieee.org/abstract/document/10026339) | [10.1109/TIV.2023.3239903](https://doi.org/10.1109/TIV.2023.3239903) |
+| [s4tp](s4tp.png) | Figure 1 | [S⁴TP: Social-Suitable and Safety-Sensitive Trajectory Planning for Autonomous Vehicles](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10337798) | [10.1109/TIV.2023.3338483](https://doi.org/10.1109/TIV.2023.3338483) |
+| [metaverses-demetaverses](metaverses-demetaverses.png) | Figure 1 | [Metaverses and DeMetaverses: From Digital Twins in CPS to Parallel Intelligence in CPSS](https://ieeexplore.ieee.org/abstract/document/9896794) | [10.1109/MIS.2022.3196592](https://doi.org/10.1109/MIS.2022.3196592) |
+| [being-becoming-believing](being-becoming-believing.png) | Figure 1 | [Parallel Intelligence in CPSSs: Being, Becoming, and Believing](https://ieeexplore.ieee.org/abstract/document/10352127) | [10.1109/MIS.2023.3284694](https://doi.org/10.1109/MIS.2023.3284694) |
+| [human-autonomous-organizations](human-autonomous-organizations.png) | Figure 1 | [Smart Decentralized Autonomous Organizations and Operations for Smart Societies: Human–Autonomous Organizations for Industry 5.0 and Society 5.0](https://ieeexplore.ieee.org/abstract/document/10352174) | [10.1109/MIS.2023.3324471](https://doi.org/10.1109/MIS.2023.3324471) |
+| [dao-desci](dao-desci.png) | Figure 1 | [The DAO to DeSci: AI for Free, Fair, and Responsibility Sensitive Sciences](https://ieeexplore.ieee.org/abstract/document/9779591) | [10.1109/MIS.2022.3167070](https://doi.org/10.1109/MIS.2022.3167070) |
