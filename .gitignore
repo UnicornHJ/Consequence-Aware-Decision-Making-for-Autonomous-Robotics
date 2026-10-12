@@ -1,0 +1,14 @@
+# Keep full papers and local working materials out of the showcase.
+*.pdf
+*.doc
+*.docx
+*.tex
+*.zip
+*.tar*
+.DS_Store
+.env
+.env.*
+*.pem
+*.key
+__pycache__/
+.venv/
